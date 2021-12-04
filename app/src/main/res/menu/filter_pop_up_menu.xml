@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/alphabet"
+        android:title="@string/label_pop_up_alphabetically">
+        <menu>
+            <item
+                android:id="@+id/a_to_z"
+                android:title="@string/label_pop_up_item_a_to_z" />
+            <item
+                android:id="@+id/z_to_a"
+                android:title="@string/label_pop_up_item_z_to_a" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/by_value"
+        android:title="@string/label_pop_up_by_value">
+        <menu>
+            <item
+                android:id="@+id/by_value_descending"
+                android:title="@string/label_pop_up_by_value_d" />
+            <item
+                android:id="@+id/by_value_ascending"
+                android:title="@string/label_pop_up_by_value_a" />
+        </menu>
+    </item>
+
+</menu>

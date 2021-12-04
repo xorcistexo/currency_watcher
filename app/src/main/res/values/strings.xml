@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CurrencyWatcher</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="button_text_ok">OK</string>
+    <string name="label_pop_up_alphabetically">Alphabetically</string>
+    <string name="label_pop_up_item_a_to_z">A to Z</string>
+    <string name="label_pop_up_item_z_to_a">Z to A</string>
+    <string name="label_pop_up_by_value">By Value</string>
+    <string name="label_pop_up_by_value_d">Descending</string>
+    <string name="label_pop_up_by_value_a">Ascending</string>
+
+</resources>
